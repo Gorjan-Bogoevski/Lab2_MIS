@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "359015918514",
+    "project_id": "finki-mis-lab3",
+    "storage_bucket": "finki-mis-lab3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:359015918514:android:401844f5b06529828d12ab",
+        "android_client_info": {
+          "package_name": "mk.finki.ukim.lab2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNHbUz7qaWqHcTRcpmbJgnEVv6lNQKZVA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

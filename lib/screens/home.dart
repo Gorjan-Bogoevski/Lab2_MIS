@@ -65,6 +65,12 @@ class _HomeScreenState extends State<HomeScreen> {
               );
             },
           ),
+          IconButton(
+            icon: const Icon(Icons.favorite),
+            onPressed: () {
+              Navigator.pushNamed(context, "/favorites");
+            },
+          ),
         ],
       ),
       body: _loading
